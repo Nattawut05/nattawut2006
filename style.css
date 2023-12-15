@@ -1,0 +1,38 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+body{
+  background-color: rgb(155, 30, 180);
+  
+}
+
+
+
+p{
+  color: rgb(30, 255, 0);
+}
+
+.note {
+   font-size: 20px;
+}
+
+#id-selector-demo{
+  color: crimson;
+}
+
+
+
+
+
+#id-selector-demo{
+  color: rgb(4, 165, 165);
+}
+
+li[value="4"] { 
+  color: blue;
+}
+*{
+  text-align: center;
+}
